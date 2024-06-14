@@ -25,4 +25,4 @@
 ## 🤝 Connect with Me
 
 📧 **Email:** abalamurugan2003@gmail.com<br>
-💼 **LinkedIn:** [Balamurugan A](www.linkedin.com/in/balamurugan-a)<br>
+💼 **LinkedIn:** [Balamurugan A](https://www.linkedin.com/in/balamurugan-a/)<br>
