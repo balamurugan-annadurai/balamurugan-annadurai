@@ -15,13 +15,6 @@
 📊 **Database:** MongoDB<br>
 🛠️ **Tools:** Git, GitHub<br>
 
-## 🌟 Highlights
-
-🎨 **UI/UX Design:** Crafting user-friendly interfaces<br>
-🧩 **Problem-Solving:** Enjoying the thrill of coding challenges<br>
-📚 **Lifelong Learner:** Constantly exploring new technologies<br>
-🌍 **Web Development Enthusiast:** Passionate about building the web of tomorrow<br>
-
 ## 🤝 Connect with Me
 
 📧 **Email:** abalamurugan2003@gmail.com<br>
