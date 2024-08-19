@@ -68,5 +68,6 @@ As a fresher in the MERN stack, I have successfully completed several projects, 
 
 ## 🤝 Connect with Me
 
-📧 **Email:** abalamurugan2003@gmail.com<br>
-💼 **LinkedIn:** [Balamurugan A](https://www.linkedin.com/in/balamurugan-a/)<br>
+- 📧 **Email:** [abalamurugan2003@gmail.com](mailto:abalamurugan2003@gmail.com)
+- 💼 **LinkedIn:** [Balamurugan A](https://www.linkedin.com/in/balamurugan-a/)
+
